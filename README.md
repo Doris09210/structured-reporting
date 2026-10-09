@@ -26,4 +26,4 @@ GPT/ChatGPT、Claude、WorkBuddy、豆包等是否支持自动发现技能、执
 
 ## 来源与许可
 
-原始说明来自作者提供的 `doris-skills.zip`。本次修订保持作者归属；原包未附许可证，本次未擅自添加 MIT 等开放许可。公开可下载不等于授予任意再分发或再许可权；如需明确开源授权，由作者选择许可证后补充。
+原始说明来自作者提供的 `doris-skills.zip`。经作者授权，本仓库采用 [MIT License](LICENSE)，Copyright (c) 2026 Doris09210。第三方依赖和字体仍适用各自许可证，不因本仓库 MIT 而改变。
